@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zadanie5": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\nowy folder\\test.txt\""
+    }
+  }
+}
